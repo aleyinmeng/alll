@@ -1,0 +1,23 @@
+Events injected: 100
+## Network stats: elapsed time=381ms (0ms mobile, 0ms wifi, 381ms not connected)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+Events injected: 100
+## Network stats: elapsed time=513ms (0ms mobile, 0ms wifi, 513ms not connected)
+    // activityResuming(cn.goapk.market)
+    // Injection Failed
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+Events injected: 1000
+## Network stats: elapsed time=4606ms (0ms mobile, 0ms wifi, 4606ms not connected)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+    // activityResuming(cn.goapk.market)
+Events injected: 1000
+## Network stats: elapsed time=4281ms (0ms mobile, 0ms wifi, 4281ms not connected)
